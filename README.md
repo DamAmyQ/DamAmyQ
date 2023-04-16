@@ -26,7 +26,6 @@
 - ⚡ Fun fact **poner cosas que me gusten que realizo fuera de la monotonia**
 
 <style>
-
     .rainbow{
         width: 40px;
         height: 40px;
