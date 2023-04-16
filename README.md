@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/damianeamaya" target="blank"><img src="https://img.shields.io/twitter/follow/damianeamaya?logo=twitter&style=for-the-badge" alt="damianeamaya" /></a> </p>
 
+
 - 🔭 I’m currently working on [Poner proyecto](link proyecto github)
 
 - 🌱 I’m currently learning **Swift and a bit of DevOps**
@@ -117,3 +118,64 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damamyq&show_icons=true&locale=en&theme=github_dark" alt="damamyq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damamyq&show_icons=true&theme=github_dark" alt="damamyq" /></p>
+
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://damian/0/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://damian/1/xhtml">
+    <style>
+        .container{
+        width: 500px;
+        height: 100px;
+        margin: 2.5px;
+        padding: 10px 6px 0px 6px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+        overflow: hidden;
+    }
+    .container::before{
+        content: "";
+        width: 150%;
+        height: 150%;
+        position: absolute;
+        background: conic-gradient(
+            #fd004c,
+            #fe9000,
+            #fff020,
+            #3edf4b,
+            #3363ff,
+            #b102b7,
+            #fd004c
+        );
+        left: -25%;
+        top: -25%;
+        animation: spin 1.5s infinite linear;
+        z-index:-2;
+    }
+ @keyframes spin {
+       100%{
+           transform: rotate(-360deg);
+       }
+   }
+    .container::after{
+        content: "";
+        z-index:-1;
+        width: 93%;
+        height: 93%;
+        position: absolute;
+        background-color: #1c1b29;
+        border-radius: 10px;
+        left: 3.5%;
+        top: 3.5%;
+        display: grid;
+        place-items: center;
+    }
+      </style>
+        <div class="container">
+        <h1>Hi there, my name is Damian<div class="hi">👋</div></h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
