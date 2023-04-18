@@ -118,6 +118,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damamyq&show_icons=true&theme=github_dark" alt="damamyq" /></p>
 
- <a href="https://github.com/DamAmyQ/DamAmyQ/blame/main/rainbow.svg">
-    <img src="rainbow.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
+ <div align="center">
+    <img src="rainbow.svg" width="100%" height="100%" alt="css-in-readme">
+
+  </div>
