@@ -31,10 +31,16 @@
 ### 🤝🏻 &nbsp; Connect with me:
 <p align="left">
 
-<a href="https://twitter.com/damianeamaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damianeamaya" height="30" width="40"/></a><a href="https://linkedin.com/in/ponerusernamedelinedink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ponerusernamedelinedink" height="30" width="40" /></a><a href="https://instagram.com/ponerinstagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ponerinstagram" height="30" width="40" /></a><a href="https://medium.com/@damianamaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@damianamaya" height="30" width="40" /></a><a href="https://www.leetcode.com/crearcuentaparaexperiencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crearcuentaparaexperiencia" height="30" width="40" /></a>
+<a href="https://twitter.com/damianeamaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damianeamaya" height="30" width="40"/></a><a href="https://linkedin.com/in/ponerusernamedelinedink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ponerusernamedelinedink" height="30" width="40" /></a>
 </p>
 
 ### 🛠 &nbsp; Languages and tools:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <p align="left">
 
 <table>
