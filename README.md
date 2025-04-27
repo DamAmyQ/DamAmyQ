@@ -1,5 +1,5 @@
  
- <div align="center"><img src="https://media.giphy.com/media/cX91DIAye9JBUhkA5N/giphy.gif"/></div>
+<div align="center"><img src="https://media.giphy.com/media/cX91DIAye9JBUhkA5N/giphy.gif"/></div>
 
 <h1 align="center">Hi 👋, I'm Damian Amaya</h1>
 <h3 align="center">I'm a passionate developer of new trends and always in search of new challenges.</h3>
@@ -11,21 +11,21 @@
 <p align="left"> <a href="https://twitter.com/damianeamaya" target="blank"><img src="https://img.shields.io/twitter/follow/damianeamaya?logo=twitter&style=for-the-badge" alt="damianeamaya" /></a> </p>
 
 
-- 🔭 I’m currently working on [Poner proyecto](link proyecto github)
+- 🔭 I’m currently working on [MonumentalHabits]
 
-- 🌱 I’m currently learning **Swift and a bit of DevOps**
+- 🌱 I’m currently learning **Swift, SwiftUI and Flutter**
 
-- 👯 I’m looking to collaborate on [Poner proyecto grupal](link proyecto github)
+- 👯 I’m Working collaboratively on **AuraCom**
 
-- 👨‍💻 All of my projects are available at [http//:ponerportafolio](http//:ponerportafolio)
+- 👨‍💻 All of my projects are available at (https://github.com/DamAmyQ?tab=repositories)
 
-- 💬 Ask me about **Android development, Kotlin, Java, Python, OpenCV a bit of tensorflow**
+- 💬 Ask me about **Ios development, Android development, Swift, SwiftUI, Kotlin, Jetpack Compose, MVVM, Java, Python**
 
 - 📫 How to reach me **damianamaya78@gmail.com**
 
-- 📄 Know about my experiences [poner experiencia en proyectos](poner experiencia en proyectos)
-
-- ⚡ Fun fact **poner cosas que me gusten que realizo fuera de la monotonia**
+- 📄 Mobile application development expertise, including financial POS solutions and route/inventory management tools with mapping functionalities.
+  
+- 🔭 Exploring the cutting edge of technology. Fascinated by economics, finance, the beauty of art, and the depth of classical music.
 
 
 ### 🤝🏻 &nbsp; Connect with me:
